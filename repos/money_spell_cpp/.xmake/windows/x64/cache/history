@@ -1,0 +1,8 @@
+{
+    cmdlines = {
+        [[xmake lua "C:\\\\Program Files\\\\xmake\\\\actions\\\\build\\\\cleaner.lua"]],
+        "xmake ",
+        [[xmake l c:\Users\15931\.vscode\extensions\tboox.xmake-vscode-2.3.7\assets\explorer.lua]],
+        [[xmake l c:\Users\15931\.vscode\extensions\tboox.xmake-vscode-2.3.7\assets\config.lua]]
+    }
+}
