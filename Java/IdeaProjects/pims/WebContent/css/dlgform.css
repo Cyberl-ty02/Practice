@@ -1,0 +1,45 @@
+
+@CHARSET "UTF-8";
+#fm{
+    margin:0;
+    padding:10px 10px;
+}
+#fm1{
+    margin:0;
+    padding:2px 2px;
+}
+.ftitle{
+    font-size:14px;
+    font-weight:bold;
+    padding:5px 0;
+    margin-bottom:10px;
+    border-bottom:1px solid #ccc;
+}
+.fitem{
+    margin-bottom:5px;
+}
+.fitem label{
+    display:inline-block;
+    width:90px;
+}
+.fitem input{
+    width:200px;
+    height:22px;
+}
+.ftitle1{
+    font-size:14px;
+    font-weight:bold;
+    padding:5px 0;
+    margin-bottom:10px;
+    border-bottom:1px solid #ccc;
+}
+.fitem1{
+    margin-bottom:5px;
+}
+.fitem1 label{
+    display:inline-block;
+    width:120px;
+}
+.fitem1 input{
+    width:450px;
+}
