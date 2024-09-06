@@ -1,0 +1,5 @@
+﻿sqlite-3460100\sqlite3.c(34249,8): warning : variable 'bRc' set but not used [-Wunused-but-set-variable]
+sqlite-3460100\sqlite3.c(67356,9): warning : unused variable 'mExpect' [-Wunused-variable]
+sqlite-3460100\sqlite3.c(47135,35): warning : unused variable 'sqlite3_os_type' [-Wunused-variable]
+sqlite-3460100\sqlite3.c(67352,12): warning : unused function 'walAssertLockmask' [-Wunused-function]
+  SqliteProject.vcxproj -> C:\Users\lty00\source\repos\SqliteProject\x64\Release\SqliteProject.lib
